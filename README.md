@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Allan Hall Solorio (Hall) 
+# 👋 ¡Hola! Soy Allan Hall Solorio (Hall) 🧑‍💻
 
 🎓 Estudiante de **Ingeniería en Ciencias de la Computación** en la **Universidad Autónoma de Chihuahua (UACH)**  
 📍 Apasionado por la tecnología, los datos y cómo pueden transformar el mundo — especialmente en áreas como la **ganadería** 🐄🌎.
@@ -31,7 +31,7 @@
 ## 💡 Me gustaría...
 
 - 👨‍🔬 Trabajar en **proyectos de Ciencia de Datos**
-- 🧠 Aplicar el análisis de datos en sectores productivos como la **ganadería**
+- 🧠 Aplicar el análisis de datos en sectores productivos como la **ganadería** o  **finanzas** 
 - 🌍 Colaborar en proyectos con impacto **social y ambiental**
 - 💼 Formar parte de equipos donde pueda **seguir aprendiendo, creciendo y creando valor con datos**
 
@@ -59,6 +59,7 @@
 
 - 📧 allan.contaa17@yahoo.com
 - 🔗 instagram: hallucinates.data19
+- 🌐 threads: hallucinates.data19
 
 ---
 
