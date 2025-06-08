@@ -7,6 +7,7 @@
 
 ## 🚀 Sobre mí
 
+- 🇲🇽  Nací el 19 de agosto del 2003 en Chihuahua, Chihuahua México 
 - 💻 He programado en **C++** en **Python** y tambien un poquito en **Java** (para POO)
 - 🤖 He desarrollado proyectos en **Machine Learning** como parte de mi formación académica
 - 🧠 Uno de mis proyectos favoritos fue una aplicación de **ML para predecir la producción de leche** con imágenes 🐄📈
@@ -37,9 +38,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Allan19)](https://git.io/streak-stats)
 
 ---
 
@@ -72,7 +70,7 @@
 
 ---
 
-> 💬 *"La vida es como una pasarela y tú eres el diseñador"*
+> 💬 *"La vida es como una pasarela y tú eres el diseñador"* Choose a Fighter (Ava Max) 
 
 ¡Gracias por visitar mi perfil! ⭐ No olvides revisar mis repos 🗂️
 
