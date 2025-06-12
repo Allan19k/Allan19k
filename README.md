@@ -50,6 +50,7 @@
 | `Java ☕` | pandas / NumPy 📊 |
 | SQL 🗃️ | matplotlib / seaborn 📈 |
 | Git y GitHub 🐙 | Excel 📊 |
+|          | Minitab | 
 
 ---
 
