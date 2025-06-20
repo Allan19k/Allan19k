@@ -54,6 +54,13 @@
 
 ---
 
+## 📚 Formación adicional
+
+- 🧠 Fundamentos de Chat GPT – Santander Open Academy 
+- 📊 Excel – Santander Open Academy (en curso)
+
+---
+
 ## 📫 Contacto
 
 - 📧 allan.contaa17@yahoo.com
