@@ -22,6 +22,7 @@
 
 ## ✨ ¿Qué estoy haciendo ahora?
 
+- 🤓 Tomando diversos cursos en kaggle relacionado al Análisis de datos y uno de Excel en Santander Academy
 - 🔭 Trabajando en proyectos introductorios para el **análisis de datos** usando Python y pandas
 - 🌱 Aprendiendo `Excel`, `SQL`, `NumPy`, `Matplotlib`, `Seaborn` y más herramientas del stack de Data Science
 - 📁 Subiendo prácticas de `Machine Learning`, `estructuras`, `programación básica` y `generadores creativos` en Python
@@ -47,10 +48,11 @@
 |-----------|--------------|
 | `Python 🐍` | Jupyter Notebook 📓 |
 | `C++ 💠` | scikit-learn 🤖 |
-| `Java ☕` | pandas / NumPy 📊 |
-| SQL 🗃️ | matplotlib / seaborn 📈 |
-| Git y GitHub 🐙 | Excel 📊 |
+| SQL 🗃️   | pandas / NumPy 📊 |
+| GitHub 🐙| matplotlib / seaborn 📈 |
+|          | Excel 📊 |
 |          | Minitab 📊 | 
+|          | Dev c++  | 
 
 ---
 
@@ -58,6 +60,7 @@
 
 - 🧠 Fundamentos de Chat GPT – Santander Open Academy 
 - 📊 Excel – Santander Open Academy (en curso)
+- 🐍 Python - Kaggle (en curso)
 
 ---
 
