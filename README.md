@@ -63,6 +63,8 @@
 - 🐍 Python - Kaggle
 - 🐼 Pandas for data manipulation - Kaggle (en curso)
 - 📒 Data visualization - Kaggle (en curso)
+- 🧼 Data cleaning - Kaggle (en curso)
+- 🤖 Intro to AI ethics - Kaggle (en curso)
 
 ---
 
