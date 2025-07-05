@@ -16,6 +16,7 @@
   - `Python` 
   - `Excel` avanzado
   - `SQL` para manejo de datos
+  - y mucho más
 - 🧪 Subo pequeños programas y experimentos en Python que exploran desde librerías curiosas hasta automatizaciones
 
 
@@ -23,7 +24,7 @@
 
 ## ✨ ¿Qué estoy haciendo ahora?
 
-- 🤓 Tomando diversos cursos en kaggle relacionado al Análisis de datos y uno de Excel en Santander Academy
+- 🤓 Tomando diversos cursos en kaggle relacionado al Análisis de datos y en Santander Academy
 - 🔭 Trabajando en proyectos introductorios para el **análisis de datos** usando Python y pandas
 - 🌱 Aprendiendo `Excel`, `SQL`, `NumPy`, `Matplotlib`, `Seaborn` y más herramientas del stack de Data Science
 - 📁 Subiendo prácticas de `Machine Learning`, `estructuras`, `programación básica` y `generadores creativos` en Python
@@ -93,8 +94,9 @@
    - `Angéle 🇧🇪`
    - `Rosse` 
    - `Dua Lipa`
-   - `Avril Lavigne`
+   - `Avril Lavigne 🇨🇦`
    - `Lady Gaga`
+   - `Alexandra Stan 🇷🇴`
 
 ---
 
