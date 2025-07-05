@@ -82,19 +82,19 @@
 
 ## 🤔 Extras
 
-- 👷 Aunque suene loco, yo nunca pense en estudiar una Ingeniería; estaba entre Contador, Negocios Internacionales o incluso Finanzas, pero finalmente me convencieron mis          padres de estudiar una Ingenieria relacionado a Sistemas y elegi Ciencias de la computación, y hasta el día de hoy, sigo pensando que fue de las mejores decisiones que tome en mi        vida
+- 👷 Aunque suene loco, yo nunca pense en estudiar una Ingeniería; estaba entre Contador, Negocios Internacionales o incluso Finanzas, pero finalmente me convencieron mis                    padres de estudiar una Ingenieria relacionado a Sistemas y elegi Ciencias de la computación, y hasta el día de hoy, sigo pensando que fue de las mejores decisiones que tome en mi        vida
 - ⚡ Aunque aún no trabajo formalmente, tengo muchas ganas de aplicar todo lo aprendido en un entorno profesional 🧠💼
 - 📘 Me gusta escribir código limpio, explicar lo que hago y aprender constantemente de la comunidad
 - 🐄 Sí, los datos también son útiles en el campo — por eso me interesa llevar la tecnología al sector agropecuario, ya que, mi pápa es ganadero y tenemos nuestro rancho en Ojinaga,         México
 - ✨ Me gusta usar las redes sociales (instagram, threads) para subir mis proyectos y trabajos que he hecho de manera creativa y divertida
 - 🎶 Me gusta mucho la música pop en inglés y hasta en fránces (tengo más de 1000 canciones en spotify); algunas de mis cantantes favoritas son:
- - `Ava Max 👑` 
- - `Bebe Rexha`
- - `Angéle 🇧🇪`
- - `Rosse` 
- - `Dua Lipa`
- - `Avril Lavigne`
- - `Lady Gaga`
+   - `Ava Max 👑` 
+   - `Bebe Rexha`
+   - `Angéle 🇧🇪`
+   - `Rosse` 
+   - `Dua Lipa`
+   - `Avril Lavigne`
+   - `Lady Gaga`
 
 ---
 
