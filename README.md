@@ -65,6 +65,9 @@
 - 📒 Data visualization - Kaggle (en curso)
 - 🧼 Data cleaning - Kaggle (en curso)
 - 🤖 Intro to AI ethics - Kaggle (en curso)
+- 🚀 Intro to SQL - Kaggle (en curso)
+- ✈️ Advanced SQL - Kaggle (en curso)
+- 🗺️ Geospatial Analysis (en curso) 
 
 ---
 
