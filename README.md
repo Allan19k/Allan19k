@@ -98,6 +98,7 @@
    - `Avril Lavigne 🇨🇦`
    - `Lady Gaga`
    - `Alexandra Stan 🇷🇴`
+ - 🍝 Mi comida favorita es la pasta, el sushi, las bolas de arroz, el caldo de pollo y de res, tambien me gusta el pollo a la naranja, y otros guisos de la comida china
 
 ---
 
