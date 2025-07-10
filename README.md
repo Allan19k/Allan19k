@@ -55,6 +55,7 @@
 |          | Excel 📊 |
 |          | Minitab 📊 | 
 |          | Dev c++  | 
+|          | Kaggle   | 
 
 ---
 
@@ -75,7 +76,7 @@
 
 ## 📫 Contacto
 
-- 📧 allan.contaa17@yahoo.com
+- 📧 allan.contaa@gmail.com
 - 🔗 instagram: hallucinates.data19
 - 🌐 threads: hallucinates.data19
 
@@ -88,7 +89,7 @@
 - 📘 Me gusta escribir código limpio, explicar lo que hago y aprender constantemente de la comunidad
 - 🐄 Sí, los datos también son útiles en el campo — por eso me interesa llevar la tecnología al sector agropecuario, ya que, mi pápa es ganadero y tenemos nuestro rancho en Ojinaga,         México
 - ✨ Me gusta usar las redes sociales (instagram, threads) para subir mis proyectos y trabajos que he hecho de manera creativa y divertida
-- 🎶 Me gusta mucho la música pop en inglés y hasta en fránces (tengo más de 1000 canciones en spotify); algunas de mis cantantes favoritas son:
+- 🎶 Me gusta mucho la música pop en inglés y hasta en fránces (tengo más de 1000 canciones en mi playlist de spotify); algunas de mis cantantes favoritas son:
    - `Ava Max 👑` 
    - `Bebe Rexha`
    - `Angéle 🇧🇪`
