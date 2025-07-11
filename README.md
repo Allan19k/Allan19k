@@ -64,7 +64,7 @@
 - 🧠 Fundamentos de Chat GPT – Santander Open Academy 
 - 📊 Excel – Santander Open Academy (en curso)
 - 🐍 Python - Kaggle
-- 🐼 Pandas for data manipulation - Kaggle (en curso)
+- 🐼 Pandas for data manipulation - Kaggle 
 - 📒 Data visualization - Kaggle (en curso)
 - 🧼 Data cleaning - Kaggle (en curso)
 - 🤖 Intro to AI ethics - Kaggle (en curso)
