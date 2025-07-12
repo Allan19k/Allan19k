@@ -65,12 +65,19 @@
 - 📊 Excel – Santander Open Academy (en curso)
 - 🐍 Python - Kaggle
 - 🐼 Pandas for data manipulation - Kaggle 
-- 📒 Data visualization - Kaggle (en curso)
 - 🧼 Data cleaning - Kaggle (en curso)
+- 📒 Data visualization - Kaggle (en curso)
 - 🤖 Intro to AI ethics - Kaggle (en curso)
 - 🚀 Intro to SQL - Kaggle (en curso)
 - ✈️ Advanced SQL - Kaggle (en curso)
-- 🗺️ Geospatial Analysis (en curso) 
+- 🗺️ Geospatial Analysis (en curso)
+- 🛸 Intro to Machine Learning - Kaggle (en curso)
+- 🗝️ Intermediate Machine Learning - Kaggle (en curso)
+- 🪏 Intro to Deep Learning - Kaggle (en curso)
+- 💻 Computer Vision - Kaggle (en curso)
+- 🪏 Feature Engineering - Kaggle (en curso)
+- ⌚ Time series - Kaggle (en curso)
+-   Machine Learning Explainability - Kaggle (en curso)
 
 ---
 
@@ -98,11 +105,10 @@
    - `Avril Lavigne 🇨🇦`
    - `Lady Gaga`
    - `Alexandra Stan 🇷🇴`
- - 🍝 Mi comida favorita es la pasta, el sushi, las bolas de arroz, el caldo de pollo y de res, tambien me gusta el pollo a la naranja, y otros guisos de la comida china
+ - 🍝 Mi comida favorita es la pasta, el sushi, las bolas de arroz, el caldo de pollo y de res, tambien me gusta el pollo a la naranja, y otros guisos
 
 ---
 
-> 💬 *"La vida es como una pasarela y tú eres el diseñador"* Choose a Fighter (Ava Max) 
-
+> 💬 *"I'm gonna reach for the stars 🌟, Although they look pretty far..."* Reach for the stars (Sonic Colors) 🦔
 ¡Gracias por visitar mi perfil! ⭐ No olvides revisar mis repos 🗂️
 
