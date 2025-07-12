@@ -73,11 +73,11 @@
 - 🗺️ Geospatial Analysis (en curso)
 - 🛸 Intro to Machine Learning - Kaggle (en curso)
 - 🗝️ Intermediate Machine Learning - Kaggle (en curso)
-- 🪏 Intro to Deep Learning - Kaggle (en curso)
+- 🚢 Intro to Deep Learning - Kaggle (en curso)
 - 💻 Computer Vision - Kaggle (en curso)
-- 🪏 Feature Engineering - Kaggle (en curso)
+- 🗽 Feature Engineering - Kaggle (en curso)
 - ⌚ Time series - Kaggle (en curso)
--   Machine Learning Explainability - Kaggle (en curso)
+- 🦔 Machine Learning Explainability - Kaggle (en curso)
 
 ---
 
@@ -110,5 +110,6 @@
 ---
 
 > 💬 *"I'm gonna reach for the stars 🌟, Although they look pretty far..."* Reach for the stars (Sonic Colors) 🦔
+
 ¡Gracias por visitar mi perfil! ⭐ No olvides revisar mis repos 🗂️
 
