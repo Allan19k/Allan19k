@@ -108,6 +108,16 @@
    - `Lady Gaga`
    - `Alexandra Stan 🇷🇴`
  - 🍝 Mi comida favorita es la pasta, el sushi, las bolas de arroz, el caldo de pollo y de res, tambien me gusta el pollo a la naranja, y otros guisos
+ - 📽️ Algunas de mis peliculas favoritas son:
+     - `Escuadron Suicida`
+     - `Aves de presa (y la fantabulosa emancipación de una Harley Quinn) `
+     - `Joker 🃏`
+     - `El Lobo de Wall Street`
+     - `Geotormenta 🌪️`
+     - `Megan`
+     - `Quien diablos son los Miller 🤣`
+     - `2 locas en fuga 👩👱🏻‍♀️´
+     - `Sonic 🦔`
 
 ---
 
