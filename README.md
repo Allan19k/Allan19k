@@ -55,7 +55,8 @@
 |          | Excel 📊 |
 |          | Minitab 📊 | 
 |          | Dev c++  | 
-|          | Kaggle   | 
+|          | Kaggle 🤓   | 
+|          | Power Bi 🤯   |
 
 ---
 
@@ -63,6 +64,7 @@
 
 - 🧠 Fundamentos de Chat GPT – Santander Open Academy 
 - 📊 Excel – Santander Open Academy (en curso)
+- 🔥 Fundamentos de Power Bi - Santander Open Academy (en curso)
 - 🐍 Python - Kaggle
 - 🐼 Pandas for data manipulation - Kaggle 
 - 🧼 Data cleaning - Kaggle (en curso)
