@@ -116,7 +116,7 @@
      - `Geotormenta 🌪️`
      - `Megan`
      - `Quien diablos son los Miller 🤣`
-     - `2 locas en fuga 👩👱🏻‍♀️´
+     - `2 locas en fuga 👩👱🏻‍♀️`
      - `Sonic 🦔`
 
 ---
