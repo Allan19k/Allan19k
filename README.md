@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Allan Hall Solorio (Hall) 🧑‍💻
 
-🎓 Estudiante de **Ingeniería en Ciencias de la Computación** en la **Universidad Autónoma de Chihuahua (UACH)**  
+🎓 Estudiante de 8º semestre de la carrera de **Ingeniería en Ciencias de la Computación** de la **Universidad Autónoma de Chihuahua (UACH)**  
 📍 Apasionado por la tecnología, los datos y cómo pueden transformar el mundo — especialmente en áreas como la **ganadería** 🐄🌎.
 
 ---
@@ -8,7 +8,7 @@
 ## 🚀 Sobre mí
 
 - 🇲🇽  Nací el 19 de agosto del 2003 en Chihuahua, Chihuahua México 
-- 💻 He programado en **C++** en **Python** y tambien un poquito en **Java** (para POO)
+- 💻 He programado en **C++** para Intro a la Programación, tambien un poquito en **Java** (para POO) y ahora estoy programando en **Python** para "Análisis de Datos" 
 - 🤖 He desarrollado proyectos en **Machine Learning** como parte de mi formación académica
 - 🧠 Uno de mis proyectos favoritos fue una aplicación de **ML para predecir la producción de leche** con imágenes 🐄📈
 - 📊 Me interesa especialmente el análisis de datos aplicado a **problemas reales que generen impacto**
@@ -24,7 +24,7 @@
 
 ## ✨ ¿Qué estoy haciendo ahora?
 
-- 🤓 Tomando diversos cursos en kaggle relacionado al Análisis de datos y en Santander Academy
+- 🤓 Tomando diversos cursos certificados, relacionados al Análisis de datos en Kaggle y tambien en Santander Open Academy
 - 🔭 Trabajando en proyectos introductorios para el **análisis de datos** usando Python y pandas
 - 🌱 Aprendiendo `Excel`, `SQL`, `NumPy`, `Matplotlib`, `Seaborn` y más herramientas del stack de Data Science
 - 📁 Subiendo prácticas de `Machine Learning`, `estructuras`, `programación básica` y `generadores creativos` en Python
@@ -56,7 +56,6 @@
 |          | Minitab 📊 | 
 |          | Dev c++  | 
 |          | Kaggle 🤓   | 
-|          | Power Bi 🤯   |
 
 ---
 
@@ -93,12 +92,12 @@
 
 ## 🤔 Extras
 
-- 👷 Aunque suene loco, yo nunca pense en estudiar una Ingeniería; estaba entre Contador, Negocios Internacionales o incluso Finanzas, pero finalmente me convencieron mis                    padres de estudiar una Ingenieria relacionado a Sistemas y elegi Ciencias de la computación, y hasta el día de hoy, sigo pensando que fue de las mejores decisiones que tome en mi        vida
+- 👷 Aunque suene loco, yo nunca pense en estudiar una Ingeniería; estaba entre Contador, Negocios Internacionales o incluso Finanzas, pero finalmente me convencieron mis                    padres de estudiar una Ingenieria relacionado a Sistemas y me decidí por Ciencias de la computación, y hasta el día de hoy, sigo pensando que fue de las mejores decisiones que tome       en mi vida
 - ⚡ Aunque aún no trabajo formalmente, tengo muchas ganas de aplicar todo lo aprendido en un entorno profesional 🧠💼
 - 📘 Me gusta escribir código limpio, explicar lo que hago y aprender constantemente de la comunidad
 - 🐄 Sí, los datos también son útiles en el campo — por eso me interesa llevar la tecnología al sector agropecuario, ya que, mi pápa es ganadero y tenemos nuestro rancho en Ojinaga,         México
-- ✨ Me gusta usar las redes sociales (instagram, threads) para subir mis proyectos y trabajos que he hecho de manera creativa y divertida
-- 🎶 Me gusta mucho la música pop en inglés y hasta en fránces (tengo más de 1000 canciones en mi playlist de spotify); algunas de mis cantantes favoritas son:
+- ✨ Uso las redes sociales (instagram, threads) para subir mis proyectos y trabajos que he hecho de manera creativa y divertida
+- 🎶 Soy fan de la música pop en inglés, pero tambien tengo canciones en fránces (tengo más de 1000 canciones en mi playlist de spotify); algunas de mis cantantes favoritas son:
    - `Ava Max 👑` 
    - `Bebe Rexha`
    - `Angéle 🇧🇪`
