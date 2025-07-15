@@ -118,7 +118,7 @@
      - `Quien diablos son los Miller 🤣`
      - `2 locas en fuga 👩👱🏻‍♀️`
      - `Sonic 🦔`
-     - Misterio a bordo 👁️‍🗨️ y Misterio a la vista 
+     - `Misterio a bordo 👁️‍🗨️ y Misterio a la vista`
 
 ---
 
