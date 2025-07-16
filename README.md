@@ -66,7 +66,7 @@
 - 🔥 Fundamentos de Power Bi - Santander Open Academy (en curso)
 - 🐍 Python - Kaggle
 - 🐼 Pandas for data manipulation - Kaggle 
-- 🧼 Data cleaning - Kaggle (en curso)
+- 🧼 Data cleaning - Kaggle
 - 📒 Data visualization - Kaggle (en curso)
 - 🤖 Intro to AI ethics - Kaggle (en curso)
 - 🚀 Intro to SQL - Kaggle (en curso)
