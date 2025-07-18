@@ -61,24 +61,29 @@
 
 ## 📚 Formación adicional
 
-- 🧠 Fundamentos de Chat GPT – Santander Open Academy 
-- 📊 Excel – Santander Open Academy (en curso)
-- 🔥 Fundamentos de Power Bi - Santander Open Academy (en curso)
-- 🐍 Python - Kaggle
-- 🐼 Pandas for data manipulation - Kaggle 
-- 🧼 Data cleaning - Kaggle
-- 📒 Data visualization - Kaggle (en curso)
-- 🤖 Intro to AI ethics - Kaggle (en curso)
-- 🚀 Intro to SQL - Kaggle (en curso)
-- ✈️ Advanced SQL - Kaggle (en curso)
-- 🗺️ Geospatial Analysis (en curso)
-- 🛸 Intro to Machine Learning - Kaggle (en curso)
-- 🗝️ Intermediate Machine Learning - Kaggle (en curso)
-- 🚢 Intro to Deep Learning - Kaggle (en curso)
-- 💻 Computer Vision - Kaggle (en curso)
-- 🗽 Feature Engineering - Kaggle (en curso)
-- ⌚ Time series - Kaggle (en curso)
-- 🦔 Machine Learning Explainability - Kaggle (en curso)
+**🧠 IA y Productividad**
+- [x] Fundamentos de ChatGPT – Santander Open Academy
+- [ ] Intro to AI Ethics – Kaggle *(en curso)*
+
+**📊 Herramientas de Análisis de Datos**
+- [] Excel – Santander Open Academy *(en curso)*  
+- [x] Python – Kaggle  
+- [x] Pandas – Kaggle  
+- [x] Data Cleaning – Kaggle  
+- [ ] Data Visualization – Kaggle *(en curso)*  
+- [ ] Intro to SQL – Kaggle *(en curso)*  
+- [ ] Advanced SQL – Kaggle *(en curso)*  
+- [ ] Geospatial Analysis – Kaggle *(en curso)*
+- [ ] Fundamentos de Power BI – Santander Open Academy *(en curso)*  
+
+**🤖 Machine Learning**  
+- [ ] Intro to Machine Learning – Kaggle *(en curso)*  
+- [ ] Intermediate Machine Learning – Kaggle *(en curso)*  
+- [ ] Intro to Deep Learning – Kaggle *(en curso)*  
+- [ ] Computer Vision – Kaggle *(en curso)*  
+- [ ] Feature Engineering – Kaggle *(en curso)*  
+- [ ] Time Series – Kaggle *(en curso)*  
+- [ ] Machine Learning Explainability – Kaggle *(en curso)*
 
 ---
 
