@@ -70,7 +70,7 @@
 - [x] Python – Kaggle  
 - [x] Pandas – Kaggle  
 - [x] Data Cleaning – Kaggle  
-- [ ] Data Visualization – Kaggle *(en curso)*  
+- [x] Data Visualization – Kaggle 
 - [ ] Intro to SQL – Kaggle *(en curso)*  
 - [ ] Advanced SQL – Kaggle *(en curso)*  
 - [ ] Geospatial Analysis – Kaggle *(en curso)*
