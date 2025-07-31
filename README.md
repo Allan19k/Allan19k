@@ -66,7 +66,7 @@
 - [ ] Intro to AI Ethics – Kaggle *(en curso)*
 
 **📊 Herramientas de Análisis de Datos**
-- [ ] Excel – Santander Open Academy *(en curso)*  
+- [x] Excel – Santander Open Academy   
 - [x] Python – Kaggle  
 - [x] Pandas – Kaggle  
 - [x] Data Cleaning – Kaggle  
