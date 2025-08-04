@@ -63,7 +63,7 @@
 
 **🧠 IA y Productividad**
 - [x] Fundamentos de ChatGPT – Santander Open Academy
-- [ ] Intro to AI Ethics – Kaggle *(en curso)*
+- [x] Intro to AI Ethics – Kaggle 
 
 **📊 Herramientas de Análisis de Datos**
 - [x] Excel – Santander Open Academy   
