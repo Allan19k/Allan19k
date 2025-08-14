@@ -25,9 +25,8 @@
 ## ✨ ¿Qué estoy haciendo ahora?
 
 - 🤓 Tomando diversos cursos certificados, relacionados al Análisis de datos en Kaggle y tambien en Santander Open Academy
-- 🔭 Trabajando en proyectos introductorios para el **análisis de datos** usando Python y pandas
+- 🔭 Trabajando en proyectos introductorios para el **análisis de datos** en la materia de Data Science 
 - 🌱 Aprendiendo `Excel`, `SQL`, `NumPy`, `Matplotlib`, `Seaborn` y más herramientas del stack de Data Science
-- 📁 Subiendo prácticas de `Machine Learning`, `estructuras`, `programación básica` y `generadores creativos` en Python
 - 🐍 Manteniendo la sección **Python for Fun**, donde combino código con ideas divertidas y útiles
 
 ---
