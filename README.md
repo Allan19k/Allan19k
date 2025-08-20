@@ -8,7 +8,7 @@
 ## 🚀 Sobre mí
 
 - 🇲🇽  Nací el 19 de agosto del 2003 en Chihuahua, Chihuahua México 
-- 💻 He programado en **C++** para Intro a la Programación, tambien un poquito en **Java** (para POO) y ahora estoy programando en **Python** para "Análisis de Datos" 
+- 💻 He programado en **C++**, un poquito en **Java** (para POO) y **Python** para "Análisis de Datos" 
 - 🤖 He desarrollado proyectos en **Machine Learning** como parte de mi formación académica
 - 🧠 Uno de mis proyectos favoritos fue una aplicación de **ML para predecir la producción de leche** con imágenes 🐄📈
 - 📊 Me interesa especialmente el análisis de datos aplicado a **problemas reales que generen impacto**
@@ -17,7 +17,7 @@
   - `Excel` avanzado
   - `SQL` para manejo de datos
   - y mucho más
-- 🧪 Subo pequeños programas y experimentos en Python que exploran desde librerías curiosas hasta automatizaciones
+- 🧪 Subo pequeños programas y experimentos en Python que exploran desde librerías curiosas hasta automatizaciones así como otros proyectos y prácticas que he realizado a lo largo de         mi carrera
 
 
 ---
@@ -25,8 +25,8 @@
 ## ✨ ¿Qué estoy haciendo ahora?
 
 - 🤓 Tomando diversos cursos certificados, relacionados al Análisis de datos en Kaggle y tambien en Santander Open Academy
-- 🔭 Trabajando en proyectos introductorios para el **análisis de datos** en la materia de Data Science 
-- 🌱 Aprendiendo `Excel`, `SQL`, `NumPy`, `Matplotlib`, `Seaborn` y más herramientas del stack de Data Science
+- 🔭 Trabajando y documentando ejercicios y proyectos para abrir secciones nuevas `Data Science` (materia optativa que estoy cursando actualmente) y `PowerBi` entre otras más adelante
+- 🌱 Proyectos de `Excel`, `SQL`, `Python` y más herramientas del stack de Data Science
 - 🐍 Manteniendo la sección **Python for Fun**, donde combino código con ideas divertidas y útiles
 
 ---
