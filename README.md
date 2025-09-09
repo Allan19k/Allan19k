@@ -75,7 +75,6 @@
 - [ ] Intro to SQL – Kaggle *(en curso)*  
 - [ ] Advanced SQL – Kaggle *(en curso)*  
 - [ ] Geospatial Analysis – Kaggle *(en curso)*
-- [ ] Fundamentos de Power BI – Santander Open Academy *(en curso)*  
 
 **🤖 Machine Learning**  
 - [ ] Intro to Machine Learning – Kaggle *(en curso)*  
