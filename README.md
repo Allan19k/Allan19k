@@ -25,13 +25,9 @@
 ## ✨ ¿Qué estoy haciendo ahora?
 
 - 🤓 Fortaleciendo mis habilidades en Análisis de Datos y Data Science mediante cursos certificados en Kaggle y Santander Open Academy
-
 - 🔭 Desarrollando y documentando proyectos de Data Science, incluyendo EDA, Machine Learning y despliegue de modelos, como parte de mi formación académica
-
 - 🌱 Construyendo proyectos prácticos con Excel, SQL, Python y herramientas del stack de Data Science, enfocados en análisis real de datos
-
 - 🐍 Manteniendo la sección Python for Fun, donde exploro ideas creativas y soluciones prácticas mediante programación
-
 - 📋 Realizando prácticas profesionales en una empresa de telecomunicaciones, apoyando en la gestión, limpieza, análisis y migración de bases de datos, así como en la mejora de procesos de consulta y reporte de información
 
 ---
