@@ -17,18 +17,22 @@
   - `Excel` avanzado
   - `SQL` para manejo de datos
   - y mucho más
-- 🧪 Subo pequeños programas y experimentos en Python que exploran desde librerías curiosas hasta automatizaciones así como otros proyectos y prácticas que he realizado a lo largo de         mi carrera
+- 🧪 Subo pequeños programas y experimentos en Python que exploran desde librerías curiosas hasta automatizaciones así como otros proyectos y prácticas que he realizado a lo largo de mi carrera
 
 
 ---
 
 ## ✨ ¿Qué estoy haciendo ahora?
 
-- 🤓 Tomando diversos cursos certificados, relacionados al Análisis de datos en Kaggle y tambien en Santander Open Academy
-- 🔭 Trabajando y documentando ejercicios y proyectos para abrir secciones nuevas `Data Science` (materia optativa que estoy cursando actualmente) 
-- 🌱 Proyectos de `Excel`, `SQL`, `Python` y más herramientas del stack de Data Science
-- 🐍 Manteniendo la sección **Python for Fun**, donde combino código con ideas divertidas y útiles
-- 📋 En proceso de realizar mis practicas profesionales en el área de análisis de datos 
+- 🤓 Fortaleciendo mis habilidades en Análisis de Datos y Data Science mediante cursos certificados en Kaggle y Santander Open Academy
+
+- 🔭 Desarrollando y documentando proyectos de Data Science, incluyendo EDA, Machine Learning y despliegue de modelos, como parte de mi formación académica
+
+- 🌱 Construyendo proyectos prácticos con Excel, SQL, Python y herramientas del stack de Data Science, enfocados en análisis real de datos
+
+- 🐍 Manteniendo la sección Python for Fun, donde exploro ideas creativas y soluciones prácticas mediante programación
+
+- 📋 Realizando prácticas profesionales en una empresa de telecomunicaciones, apoyando en la gestión, limpieza, análisis y migración de bases de datos, así como en la mejora de procesos de consulta y reporte de información
 
 ---
 
