@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Allan Hall Solorio (Hall) 🧑‍💻
 
-🎓 Estudiante de 8º semestre de la carrera de **Ingeniería en Ciencias de la Computación** de la **Universidad Autónoma de Chihuahua (UACH)**  
-📍 Apasionado por la tecnología, los datos y cómo pueden transformar el mundo — especialmente en áreas como la **ganadería** 🐄🌎.
+🎓 Estudiante de 9º semestre de la carrera de **Ingeniería en Ciencias de la Computación** de la **Universidad Autónoma de Chihuahua (UACH)**  
+📍 Apasionado por la tecnología, los datos y cómo pueden transformar el mundo 🌎.
 
 ---
 
@@ -9,7 +9,7 @@
 
 - 🇲🇽  Nací el 19 de agosto del 2003 en Chihuahua, Chihuahua México 
 - 💻 He programado en **C++**, un poquito en **Java** (para POO) y **Python** para "Análisis de Datos" 
-- 🤖 He desarrollado proyectos en **Machine Learning** como parte de mi formación académica
+- 🤖 He desarrollado proyectos en **Machine Learning** y **Data Science** como parte de mi formación académica
 - 🧠 Uno de mis proyectos favoritos fue una aplicación de **ML para predecir la producción de leche** con imágenes 🐄📈
 - 📊 Me interesa especialmente el análisis de datos aplicado a **problemas reales que generen impacto**
 - 🌱 Actualmente me estoy preparando para entrar al mundo de la **Ciencia de Datos** aprendiendo:
@@ -51,7 +51,7 @@
 | `Python 🐍` | Jupyter Notebook 📓 |
 | `C++ 💠` | scikit-learn 🤖 |
 | SQL 🗃️   | pandas / NumPy 📊 |
-| GitHub 🐙| matplotlib / seaborn 📈 |
+|          | matplotlib / seaborn 📈 |
 |          | Excel 📊 |
 |          | Minitab 📊 | 
 |          | Dev c++  | 
@@ -65,7 +65,7 @@
 - [x] Fundamentos de ChatGPT – Santander Open Academy
 - [x] Intro to AI Ethics – Kaggle 
 
-**📊 Herramientas de Análisis de Datos**
+**📊 Herramientas para Análisis de Datos**
 - [x] Excel – Santander Open Academy
 - [x] Power Bi - Santander Open Academy *(en curso)*
 - [x] Python – Kaggle  
