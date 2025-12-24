@@ -77,7 +77,7 @@
 - [ ] Geospatial Analysis – Kaggle *(en curso)*
 
 **🤖 Machine Learning**  
-- [ ] Intro to Machine Learning – Kaggle *(en curso)*  
+- [x] Intro to Machine Learning 
 - [ ] Intermediate Machine Learning – Kaggle *(en curso)*  
 - [ ] Intro to Deep Learning – Kaggle *(en curso)*  
 - [ ] Computer Vision – Kaggle *(en curso)*  
