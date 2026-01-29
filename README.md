@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Allan Hall Solorio (Hall) 🧑‍💻
 
-🎓 Estudiante de 9º semestre de la carrera de **Ingeniería en Ciencias de la Computación** de la **Universidad Autónoma de Chihuahua (UACH)**  
+🎓 Estudiante de último semestre de la carrera de **Ingeniería en Ciencias de la Computación** de la **Universidad Autónoma de Chihuahua (UACH)**  
 📍 Apasionado por la tecnología, los datos y cómo pueden transformar el mundo 🌎.
 
 ---
@@ -28,7 +28,7 @@
 - 🔭 Desarrollando y documentando proyectos de Data Science, incluyendo EDA, Machine Learning y despliegue de modelos, como parte de mi formación académica
 - 🌱 Construyendo proyectos prácticos con Excel, SQL, Python y herramientas del stack de Data Science, enfocados en análisis real de datos
 - 🐍 Manteniendo la sección Python for Fun, donde exploro ideas creativas y soluciones prácticas mediante programación
-- 📋 Realizando prácticas profesionales en una empresa de telecomunicaciones, apoyando en la gestión, limpieza, análisis y migración de bases de datos, así como en la mejora de procesos de consulta y reporte de información
+- 📋 Realizando mis prácticas profesionales en una empresa de telecomunicaciones, apoyando en la gestión, limpieza, análisis y migración de bases de datos, así como en la mejora de procesos de consulta y reporte de información
 
 ---
 
@@ -102,7 +102,7 @@
 - 📘 Me gusta escribir código limpio, explicar lo que hago y aprender constantemente de la comunidad
 - 🐄 Sí, los datos también son útiles en el campo — por eso me interesa llevar la tecnología al sector agropecuario, ya que, mi pápa es ganadero y tenemos nuestro rancho en Ojinaga,         México
 - ✨ Uso las redes sociales (instagram, threads) para subir mis proyectos y trabajos que he hecho de manera creativa y divertida
-- 🎶 Soy fan de la música pop en inglés, pero tambien tengo canciones en fránces (tengo más de 1000 canciones en mi playlist de spotify); algunas de mis cantantes favoritas son:
+- 🎶 Soy fan de la música pop en inglés, pero tambien tengo canciones en fránces (tengo más de 1000 canciones en mi playlist); algunas de mis cantantes favoritas son:
    - `Ava Max 👑` 
    - `Bebe Rexha`
    - `Angéle 🇧🇪`
@@ -123,6 +123,7 @@
      - `2 locas en fuga 👩👱🏻‍♀️`
      - `Sonic 🦔`
      - `Misterio a bordo 👁️‍🗨️ y Misterio a la vista`
+     - La trilogia de `Batman` 🦇 (Batman Inicia, El caballero de la noche y El caballero de la noche asciende)
 
 ---
 
