@@ -123,7 +123,7 @@
      - `2 locas en fuga 👩👱🏻‍♀️`
      - `Sonic 🦔`
      - `Misterio a bordo 👁️‍🗨️ y Misterio a la vista`
-     - La trilogia de `Batman` 🦇 (Batman Inicia, El caballero de la noche y El caballero de la noche asciende)
+     -  `La trilogia de Batman 🦇`  (Batman Inicia, El caballero de la noche y El caballero de la noche asciende)
 
 ---
 
