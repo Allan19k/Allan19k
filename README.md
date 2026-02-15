@@ -27,7 +27,7 @@
 - 🤓 Fortaleciendo mis habilidades en Análisis de Datos y Data Science mediante cursos certificados en Kaggle y Santander Open Academy
 - 🔭 Desarrollando y documentando proyectos de Data Science, incluyendo EDA, Machine Learning y despliegue de modelos, como parte de mi formación académica
 - 🌱 Construyendo proyectos prácticos con Excel, SQL, Python y herramientas del stack de Data Science, enfocados en análisis real de datos
-- 🐍 Manteniendo la sección Python for Fun, donde exploro ideas creativas y soluciones prácticas mediante programación
+- 🐍 Manteniendo actualizada la sección Python for Fun, donde exploro ideas creativas y soluciones prácticas mediante programación
 - 📋 Realizando mis prácticas profesionales en una empresa de telecomunicaciones, apoyando en la gestión, limpieza, análisis y migración de bases de datos, así como en la mejora de procesos de consulta y reporte de información
 
 ---
@@ -67,23 +67,23 @@
 
 **📊 Herramientas para Análisis de Datos**
 - [x] Excel – Santander Open Academy
-- [x] Power Bi - Santander Open Academy *(en curso)*
+- [x] Power Bi - Santander Open Academy
 - [x] Python – Kaggle  
 - [x] Pandas – Kaggle  
 - [x] Data Cleaning – Kaggle  
 - [x] Data Visualization – Kaggle 
-- [ ] Intro to SQL – Kaggle *(en curso)*  
-- [ ] Advanced SQL – Kaggle *(en curso)*  
-- [ ] Geospatial Analysis – Kaggle *(en curso)*
+- [ ] Intro to SQL – Kaggle 
+- [ ] Advanced SQL – Kaggle 
+- [ ] Geospatial Analysis – Kaggle
 
 **🤖 Machine Learning**  
 - [x] Intro to Machine Learning 
-- [ ] Intermediate Machine Learning – Kaggle *(en curso)*  
-- [ ] Intro to Deep Learning – Kaggle *(en curso)*  
-- [ ] Computer Vision – Kaggle *(en curso)*  
-- [ ] Feature Engineering – Kaggle *(en curso)*  
-- [ ] Time Series – Kaggle *(en curso)*  
-- [ ] Machine Learning Explainability – Kaggle *(en curso)*
+- [ ] Intermediate Machine Learning – Kaggle 
+- [ ] Intro to Deep Learning – Kaggle  
+- [ ] Computer Vision – Kaggle 
+- [ ] Feature Engineering – Kaggle 
+- [ ] Time Series – Kaggle
+- [ ] Machine Learning Explainability – Kaggle 
 
 ---
 
@@ -124,6 +124,7 @@
      - `Sonic 🦔`
      - `Misterio a bordo 👁️‍🗨️ y Misterio a la vista`
      -  `La trilogia de Batman 🦇`  (Batman Inicia, El caballero de la noche y El caballero de la noche asciende)
+     -  `Mercy 🤖`
 
 ---
 
