@@ -24,11 +24,22 @@
 
 ## ✨ ¿Qué estoy haciendo ahora?
 
-- 🤓 Fortaleciendo mis habilidades en Análisis de Datos y Data Science mediante cursos certificados en Kaggle y Santander Open Academy
-- 🔭 Desarrollando y documentando proyectos de Data Science, incluyendo EDA, Machine Learning y despliegue de modelos, como parte de mi formación académica
-- 🌱 Construyendo proyectos prácticos con Excel, SQL, Python y herramientas del stack de Data Science, enfocados en análisis real de datos
-- 🐍 Manteniendo actualizada la sección Python for Fun, donde exploro ideas creativas y soluciones prácticas mediante programación
-- 📋 Realizando mis prácticas profesionales en una empresa de telecomunicaciones, apoyando en la gestión, limpieza, análisis y migración de bases de datos, así como en la mejora de procesos de consulta y reporte de información
+- 🤓 Fortaleciendo mis habilidades en Análisis de Datos y Data Science mediante cursos certificados en Kaggle Learn y Santander Open Academy, profundizando en herramientas como Python, SQL, Excel y Power BI.
+
+- 🔭 Desarrollando y documentando proyectos de Data Science y Machine Learning, incluyendo análisis exploratorio de datos (EDA), construcción de modelos y despliegue de aplicaciones para predicción.
+
+- 🧮 Implementando algoritmos y métodos numéricos en Python, como parte de un nuevo repositorio, donde desarrollo soluciones computacionales para encontrar raíces de funciones y resolver problemas matemáticos mediante programación científica.
+
+- 🌱 Construyendo proyectos prácticos con Excel, SQL y Python, enfocados en análisis de datos, automatización de procesos y generación de insights a partir de datos reales o simulados.
+
+- 🐍 Manteniendo actualizada la sección Python for Fun, donde exploro librerías interesantes, automatizaciones y pequeñas herramientas útiles desarrolladas en Python.
+
+- 📡 Realizando prácticas profesionales en una empresa de telecomunicaciones, donde he trabajado en:
+
+  - Limpieza, organización y estandarización de una base de datos de más de 20,000 clientes
+  - Preparación de datos para su integración en sistemas administrativos
+  - Mejora de procesos de consulta y gestión de información
+  - Apoyo al área de ingeniería en tareas técnicas de red como gestión de DHCP y VLANs
 
 ---
 
@@ -86,6 +97,10 @@
 - [ ] Machine Learning Explainability – Kaggle 
 
 ---
+
+## 🚧 Actualmente en construcción
+- Numerical Methods in Python
+- Data Analysis Portfolio
 
 ## 📫 Contacto
 
