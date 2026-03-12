@@ -102,6 +102,8 @@
 - Numerical Methods in Python
 - Data Analysis Portfolio
 
+---
+
 ## 📫 Contacto
 
 - 📧 allan.contaa@gmail.com
