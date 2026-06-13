@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Allan Hall Solorio (Hall) 🧑‍💻
 
-🎓 Estudiante de último semestre de la carrera de **Ingeniería en Ciencias de la Computación** de la **Universidad Autónoma de Chihuahua (UACH)**  
-📍 Apasionado por la tecnología, los datos y cómo pueden transformar el mundo 🌎.
+🎓 Soy recien egresado de la carrera de Ingeniería en ciencias de la computación de la **Universidad Autónoma de Chihuahua (UACH)**  
+📍 Apasionado por la tecnología, los datos y cómo estos pueden transformar el mundo 🌎.
 
 ---
 
