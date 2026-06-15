@@ -59,14 +59,14 @@
 
 | Lenguajes | Herramientas |
 |-----------|--------------|
-| `Python 🐍` | Jupyter Notebook 📓 |
+| `Python 🐍` | Google Collab 📓 |
 | `C++ 💠` | scikit-learn 🤖 |
 | SQL 🗃️   | pandas / NumPy 📊 |
 |          | matplotlib / seaborn 📈 |
 |          | Excel 📊 |
 |          | Minitab 📊 | 
 |          | Dev c++  | 
-|          | Kaggle 🤓   | 
+|          | PowerBi 🤓   | 
 
 ---
 
