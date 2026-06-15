@@ -59,13 +59,13 @@
 
 | Lenguajes | Herramientas |
 |-----------|--------------|
-| `Python 🐍` | Google Collab 📓 |
+| `Python 🐍` | Google Colab 📓 |
 | `C++ 💠` | scikit-learn 🤖 |
 | SQL 🗃️   | pandas / NumPy 📊 |
 |          | matplotlib / seaborn 📈 |
 |          | Excel 📊 |
 |          | Minitab 📊 | 
-|          | Dev c++  | 
+|          | Visual Studio Code | 
 |          | PowerBi 🤓   | 
 
 ---
