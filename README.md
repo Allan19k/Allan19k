@@ -64,6 +64,7 @@
 **📊 Herramientas para Análisis de Datos**
 - [x] Excel – Santander Open Academy
 - [x] Power Bi - Santander Open Academy
+- [ ] Power Bi Intermedio - Santander Open Academy
 - [x] Python – Kaggle  
 - [x] Pandas – Kaggle  
 - [x] Data Cleaning – Kaggle  
