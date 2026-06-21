@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Allan Hall Solorio (Hall) 🧑‍💻
 
 🎓 Ingeniero en Ciencias de la Computación egresado de la Universidad Autónoma de Chihuahua (UACH), actualmente en proceso de titulación.
-
 📍 Apasionado por la tecnología, los datos y cómo estos pueden transformar el mundo 🌎.
 
 ---
@@ -11,13 +10,8 @@
 - 🇲🇽  Nací el 19 de agosto del 2003 en Chihuahua, Chihuahua México 
 - 💻 He programado en **C++**, un poquito en **Java** (para POO) y **Python** para "Análisis de Datos" 
 - 🤖 He desarrollado proyectos en **Machine Learning** y **Data Science** como parte de mi formación académica
-- 🧠 Uno de mis proyectos favoritos fue una aplicación de **ML para predecir la producción de leche** con imágenes 🐄📈
+- 📝 Soy coautor del proyecto de investigación Smart Dairy Farming: Milk Yield Classification App, publicado como artículo científico y desarrollado como parte de mi tesis de licenciatura.
 - 📊 Me interesa especialmente el análisis de datos aplicado a **problemas reales que generen impacto**
-- 🌱 Actualmente me estoy preparando para entrar al mundo de la **Ciencia de Datos** aprendiendo:
-  - `Python` 
-  - `Excel` avanzado
-  - `SQL` para manejo de datos
-  - y mucho más
 - 🧪 Subo pequeños programas y experimentos en Python que exploran desde librerías curiosas hasta automatizaciones así como otros proyectos y prácticas que he realizado a lo largo de mi carrera
 
 
@@ -44,8 +38,6 @@
 
 ---
 
-
----
 
 ## 🛠️ Tecnologías que uso
 
