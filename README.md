@@ -7,10 +7,10 @@
 
 ## 🚀 Sobre mí
 
-- 🇲🇽  Nací el 19 de agosto del 2003 en Chihuahua, Chihuahua México 
-- 💻 He programado en **C++**, un poquito en **Java** (para POO) y **Python** para "Análisis de Datos" 
+- 🇲🇽  Nací el 19 de agosto del 2003 en Chihuahua, México 
+- 💻 He programado en **C++**, un poquito en **Java** (para POO) y **Python** para "Análisis de Datos"
+- 📝 Soy coautor del proyecto de investigación titulado **Smart Dairy Farming: Milk Yield Classification App**, el cual fue publicado como artículo científico y más adelante desarrollado como parte de mi tesis de licenciatura para titulación.
 - 🤖 He desarrollado proyectos en **Machine Learning** y **Data Science** como parte de mi formación académica
-- 📝 Soy coautor del proyecto de investigación Smart Dairy Farming: Milk Yield Classification App, publicado como artículo científico y desarrollado como parte de mi tesis de licenciatura.
 - 📊 Me interesa especialmente el análisis de datos aplicado a **problemas reales que generen impacto**
 - 🧪 Subo pequeños programas y experimentos en Python que exploran desde librerías curiosas hasta automatizaciones así como otros proyectos y prácticas que he realizado a lo largo de mi carrera
 
