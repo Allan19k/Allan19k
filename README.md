@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Allan Hall Solorio (Hall) 🧑‍💻
 
-🎓 Soy recien egresado de la carrera de Ingeniería en ciencias de la computación de la **Universidad Autónoma de Chihuahua (UACH)**  
+🎓 Ingeniero en Ciencias de la Computación egresado de la Universidad Autónoma de Chihuahua (UACH), actualmente en proceso de titulación.
 📍 Apasionado por la tecnología, los datos y cómo estos pueden transformar el mundo 🌎.
 
 ---
@@ -24,22 +24,13 @@
 
 ## ✨ ¿Qué estoy haciendo ahora?
 
-- 🤓 Fortaleciendo mis habilidades en Análisis de Datos y Data Science mediante cursos certificados en Kaggle Learn y Santander Open Academy, profundizando en herramientas como Python, SQL, Excel y Power BI.
+* 🎓 Finalizando mi proceso de titulación como Ingeniero en Ciencias de la Computación mediante mi proyecto de tesis **Smart Dairy Farming: Milk Yield Classification App**, una solución basada en Machine Learning y Visión por Computadora aplicada al sector agropecuario.
+* 📖 Documentando y fortaleciendo mi portafolio profesional con proyectos de Análisis de Datos, Ciencia de Datos, Machine Learning, Python, SQL, Excel, Power BI y Métodos Numéricos.
+* 🤖 Continuando mi formación en Data Science mediante cursos, certificaciones y proyectos prácticos enfocados en resolver problemas reales con datos.
+* 🐍 Desarrollando proyectos en la sección **Python for Fun**, donde exploro librerías, automatizaciones, visualizaciones y aplicaciones creativas para ampliar mis conocimientos en programación.
+* 📊 Profundizando en técnicas de análisis de datos, modelado predictivo y herramientas utilizadas en la industria para prepararme para nuevas oportunidades profesionales en áreas de Data Analytics y Data Science.
+* 🚀 Construyendo nuevos proyectos que combinen programación, matemáticas y análisis de datos para seguir ampliando mi experiencia técnica y mi portafolio.
 
-- 🔭 Desarrollando y documentando proyectos de Data Science y Machine Learning, incluyendo análisis exploratorio de datos (EDA), construcción de modelos y despliegue de aplicaciones para predicción.
-
-- 🧮 Implementando algoritmos y métodos numéricos en Python, como parte de un nuevo repositorio, donde desarrollo soluciones computacionales para encontrar raíces de funciones y resolver problemas matemáticos mediante programación científica.
-
-- 🌱 Construyendo proyectos prácticos con Excel, SQL y Python, enfocados en análisis de datos, automatización de procesos y generación de insights a partir de datos reales o simulados.
-
-- 🐍 Manteniendo actualizada la sección Python for Fun, donde exploro librerías interesantes, automatizaciones y pequeñas herramientas útiles desarrolladas en Python.
-
-- 📡 Realizando prácticas profesionales en una empresa de telecomunicaciones, donde he trabajado en:
-
-  - Limpieza, organización y estandarización de una base de datos de más de 20,000 clientes
-  - Preparación de datos para su integración en sistemas administrativos
-  - Mejora de procesos de consulta y gestión de información
-  - Apoyo al área de ingeniería en tareas técnicas de red como gestión de DHCP y VLANs
 
 ---
 
